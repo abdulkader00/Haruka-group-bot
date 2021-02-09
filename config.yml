@@ -13,7 +13,7 @@ no_load: []
 strict_antispam: False
 workers: 4
 del_cmds: False
-sw_api: ''
+sw_api: 'Go1H3muN7qvmv~_BYOP5zZG_0yMcCDRXybeIp9Pw4CgRAMZHsaGxTsSSTyfZCyEA'
 
 # Database
 database_url: "postgres://username:password@host:5432/database_name"
