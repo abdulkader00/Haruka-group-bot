@@ -16,7 +16,7 @@ del_cmds: False
 sw_api: 'Go1H3muN7qvmv~_BYOP5zZG_0yMcCDRXybeIp9Pw4CgRAMZHsaGxTsSSTyfZCyEA'
 
 # Database
-database_url: "postgres://username:password@host:5432/database_name"
+database_url: "postgres://orktegxvjeenhc:a100030a9bf07cddb8c352d168704a67333405eb2d6c65c2cb0c48df24239e42@ec2-34-239-33-57.compute-1.amazonaws.com:5432/d431ukup8ii5ur"
 
 # Permission
 sudo_users: [1287904152]
