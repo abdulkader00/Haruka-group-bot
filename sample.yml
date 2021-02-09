@@ -1,13 +1,13 @@
 ##############################
 # Please edit this line to "not_sample_anymore" to make the bot run
-is_example_config_or_not: "Ahhhhhhhhhhh i am not blind so i'll follow what the line above me asked"
+is_example_config_or_not: "not_sample_anymore"
 ##############################
-bot_token: "Your bot token"
-api_key: ''
-api_hash: ''
-owner_id: 123456
-owner_username: "OWNER USERNAME"
-message_dump: "CHAT ID"
+bot_token: "1650411260:AAEOYdYhvECeZa52cNSX0f7rAf3NRh724zg"
+api_key: '2498883'
+api_hash: '5aff214890cf9e5affc6a51167496728'
+owner_id: 1287904152
+owner_username: "itsabdulkader"
+message_dump: "-502868974"
 load: []
 no_load: []
 strict_antispam: False
@@ -19,5 +19,5 @@ sw_api: ''
 database_url: "postgres://username:password@host:5432/database_name"
 
 # Permission
-sudo_users: []
+sudo_users: [1287904152]
 whitelist_users: []
